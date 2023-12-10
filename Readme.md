@@ -1,1 +1,1 @@
-# backend project with javascrit
+# backend project with javascript
